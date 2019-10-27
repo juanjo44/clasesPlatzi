@@ -1,0 +1,7 @@
+Lista de comida:
+
+-Carne
+-Pollo
+-Salchicha
+-Lechuga
+-Huevo
