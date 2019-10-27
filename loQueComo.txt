@@ -1,7 +1,7 @@
 Lista de comida:
 
--Carne
--Pollo
--Salchicha
+-Tomate
+-Maiz
+-Pan Integral
 -Lechuga
 -Huevo
